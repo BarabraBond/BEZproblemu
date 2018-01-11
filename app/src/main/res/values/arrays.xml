@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="niebezpieczenstwa">
+        <item>Klub nocny</item>
+        <item>Dzikie zwierzęta</item>
+        <item>Sklep nocny</item>
+        <item>Pustostan</item>
+        <item>Zaułek</item>
+        <item>Opuszczony dom</item>
+        <item>Spożywanie alkoholu</item>
+    </string-array>
+</resources>

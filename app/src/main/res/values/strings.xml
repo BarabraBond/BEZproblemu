@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Map 4 TSP</string>
+    <string name="title_activity_maps">Map 4 Traveling Salesman Path</string>
+</resources>
